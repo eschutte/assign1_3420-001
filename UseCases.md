@@ -1,5 +1,5 @@
 # Title: Licence and Vulnerability Information
-Primary Actor:
+Primary Actor:  Manager
 Goal in Context:
 Stakeholders:
 Preconditions:
