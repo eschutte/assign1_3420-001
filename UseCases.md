@@ -1,4 +1,4 @@
-# Title:
+# Title: Licence and Vulnerability Information
 Primary Actor:
 Goal in Context:
 Stakeholders:
