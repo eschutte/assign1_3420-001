@@ -3,7 +3,7 @@ Primary Actor:  Manager
 
 Goal in Context:  The manager is able to see the licence and vulnerability information provided by the project.
 
-Stakeholders:  -Manager:
+#Stakeholders:#  -Manager:
 
 -Developer:
 
