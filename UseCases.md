@@ -22,7 +22,8 @@ Manager receives license and vulnerability
 information for the project packages that are requested.
 
 ## Failed End Conditions:  
-Manager recives inacurate or invalid licence and/or vulnerability information 
+Manager recives inacurate or invalid licence and/or vulnerability information. 
 
 ## Trigger:
-Manager requestes information to verify information is valid
+manager identifies or uploads project information to which license and
+vulnerability information is provided.
