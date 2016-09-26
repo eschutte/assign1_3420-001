@@ -2,21 +2,27 @@
 ## Primary Actor:
 Manager
 
-Goal in Context:  The manager is able to see the licence and vulnerability information provided by the project.
+## Goal in Context:  
+The manager is able to see the licence and vulnerability information provided by the project.
 
-Stakeholders:  -Manager:
+## Stakeholders:  
+-Manager:
 
 -Developer:
 
 -Owner:
 
-Preconditions:  -Package information is stored into the database  
+## Preconditions:
+-Package information is stored into the database  
 
 -Proper information plrovided
 
-Main Succes Scenario:  Manager receives license and vulnerability
+## Main Succes Scenario:  
+Manager receives license and vulnerability
 information for the project packages that are requested.
 
-Failed End Conditions:  Manager recives inacurate or invalid licence and/or vulnerability information 
+## Failed End Conditions:  
+Manager recives inacurate or invalid licence and/or vulnerability information 
 
-Trigger:
+## Trigger:
+Manager requestes information to verify information is valid
