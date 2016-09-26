@@ -1,5 +1,6 @@
 # Title: Licence and Vulnerability Information
-Primary Actor:  Manager
+## Primary Actor:
+Manager
 
 Goal in Context:  The manager is able to see the licence and vulnerability information provided by the project.
 
@@ -16,6 +17,6 @@ Preconditions:  -Package information is stored into the database
 Main Succes Scenario:  Manager receives license and vulnerability
 information for the project packages that are requested.
 
-Failed End Conditions:
+Failed End Conditions:  Manager recives inacurate or invalid licence and/or vulnerability information 
 
 Trigger:
