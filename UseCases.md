@@ -25,5 +25,5 @@ information for the project packages that are requested.
 Manager recives inacurate or invalid licence and/or vulnerability information. 
 
 ## Trigger:
-manager identifies or uploads project information to which license and
+Manager identifies or uploads project information to which license and
 vulnerability information is provided.
