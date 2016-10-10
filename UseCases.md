@@ -1,29 +1,30 @@
-# Title: Licence and Vulnerability Information
-## Primary Actor:
+# Use Case 1
+## Title: Licence and Vulnerability Information
+### Primary Actor:
 Manager
 
-## Goal in Context:  
+### Goal in Context:  
 The manager is able to see the licence and vulnerability information provided by the project.
 
-## Stakeholders:  
+### Stakeholders:  
 -Manager:
 
 -Developer:
 
 -Owner:
 
-## Preconditions:
+### Preconditions:
 -Package information is stored into the database  
 
 -Proper information plrovided
 
-## Main Succes Scenario:  
+### Main Succes Scenario:  
 Manager receives license and vulnerability
 information for the project packages that are requested.
 
-## Failed End Conditions:  
+### Failed End Conditions:  
 Manager recives inacurate or invalid licence and/or vulnerability information. 
 
-## Trigger:
+### Trigger:
 Manager identifies or uploads project information to which license and
 vulnerability information is provided.
