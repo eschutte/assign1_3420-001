@@ -7,11 +7,11 @@ Manager
 The manager is able to see the licence and vulnerability information provided by the project.
 
 ### Stakeholders:  
--Manager:
+-Manager: Receives information on the project
 
--Developer:
+-Developer: Reveices information on the project and all policies to be met
 
--Owner:
+-Owner: Understands decisions made by manager and developer based on the software
 
 ### Preconditions:
 -Package information is stored into the database  
