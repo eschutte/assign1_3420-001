@@ -1,10 +1,10 @@
 # DFD Dictionary
-
+## Entities
 Manager - Creates software packages
 
 Developer - Creates and submits software packages
 
-
+## Processes
 OSS Package Livense Scanning - checks for OSS files in software packages
 
 Look for Licenses - Looks for the license that is associated with the software package
@@ -15,14 +15,14 @@ Modify Policy Document - Allows the manager to make policy changes within the do
 
 OSS software package parts - retreives the OSS package componets requested by the manager or developer
 
-
+## Databases
 NSIT vulnerability Database - Database that declares any vulnerabilities in the document
 
 OSS Database - Database that contains the software package
 
 OSS Policy Database - Database that contains the software package policy documents
 
-
+## Data Flows
 Software Package - Software files
 
 Package Name - Software package name
