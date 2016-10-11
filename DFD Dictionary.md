@@ -1,55 +1,49 @@
 # DFD Dictionary
 
-Manager - 
+Manager - Creates software packages
 
-Developer -
-
-
-OSS Package Livense Scanning -
-
-Look for Licenses - 
-
-OSS software package parts -
-
-Policy Violations -
-
-Modify Policy Document -
+Developer - Creates and submits software packages
 
 
-NSIT vulnerability Database -
+OSS Package Livense Scanning - checks for OSS files in software packages
 
-OSS Database -
+Look for Licenses - Looks for the license that is associated with the software package
 
-OSS Policy Database -
+Policy Violations - Lets the manager and developer know of any policy violations and records them
+
+Modify Policy Document - Allows the manager to make policy changes within the documentation
+
+OSS software package parts - retreives the OSS package componets requested by the manager or developer
 
 
-Software Package -
+NSIT vulnerability Database - Database that declares any vulnerabilities in the document
 
-Package Name -
+OSS Database - Database that contains the software package
 
-Vulnerablity Issues -
+OSS Policy Database - Database that contains the software package policy documents
 
-License Results -
 
-Software and License Results -
+Software Package - Software files
 
-NSIT results for software package -
+Package Name - Software package name
 
-Return OSS parts -
+Vulnerablity Issues - Any vulnerability issues that are detected 
 
-Request for OSS parts -
+License Results - License information that is returned on the software package
 
-Updates of policy document -
+Software and License Results - License information and the vulnerabilities that are found in the software package
 
-Updated policy document -
+NSIT results for software package - Results that are returned from the NIST database on the liscense and vulnerabilitiy issues
 
-Software Components -
+Return OSS parts - OSS componets returned to manager or developer
 
-Policy violations -
+Request for OSS parts - Developer or Manager requesting to veiw the OSS componets of the software package
 
-Policy Information -
+Policy violations - Viloations in the software package that are promped to the manager for change
 
-Policy Results -
+Policy Information - Information on the policy documentation that is provided to the manager for reveiw
+
+Policy Results - Result of the policy documentation
 
 
 
